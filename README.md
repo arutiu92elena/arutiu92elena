@@ -1,6 +1,6 @@
 ## Hello, my name is Elena Arutiunian and nice to meet you here 👋
 
-## I'm Data Analyst and for the moment looking for a job. 
+### I'm a Data Analyst and for the moment, looking for a job. 
 
 - 🦾 My skills: PostgreSQL, Python 3.0 (pandas, numpy, seaborn, matplotlib, scipy), Jupyter Notebook, PyCharm, Excel (vlookup and pivot table, math functions)
 - 🔭 I’m currently working on ...
