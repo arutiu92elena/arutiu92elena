@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on product analysis
 - ⚡ Fun fact: In 32 y.o. I decided to change my profession. And how I did it? Yes, I've ANALYSED what I like to do the most
   
-#### You can connect with me in ['Telegram']('https://t.me/Elena_Arutiunian_1992')
+#### You can connect with me in [Telegram]('https://t.me/Elena_Arutiunian_1992')
