@@ -9,4 +9,4 @@
 - ⚡ Fun fact: In 32 y.o. I decided to change my profession. And how I did it? Yes, I've ANALYSED what I like to do the most
   
 #### You can connect with me:
-[Telegram]('https://t.me/Elena_Arutiunian_1992')
+[Telegram](https://t.me/Elena_Arutiunian_1992)
